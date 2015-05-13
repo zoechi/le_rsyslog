@@ -46,7 +46,7 @@ Where myfile is some logical file in your File System. le_rsyslog will then auto
 
 Importing a JSON Configuration file
 ---
-le_rsyslog has the ability to import a json configuration file which allows the it to configure Rsyslog to follow certain log files and send to a particular token. This system is useful for elastic enviroments where you want a single configuration file to be across all servers when they are brought up.
+le_rsyslog has the ability to import a json configuration file which allows it to configure Rsyslog to follow certain log files and send to a particular token. This system is useful for elastic enviroments where you want a single configuration file to be across all servers when they are brought up.
 
 The JSON configuration file requires the following format to be present
 
